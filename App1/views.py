@@ -3,10 +3,7 @@ from rest_framework.views import APIView
 from .serializers import*
 from rest_framework.response import Response
 from rest_framework import status
-#vilas
-# _______________________code______________
-_____________________sdfghjk___________
-_____________________sdfghjk___________
+
 
 class WorkShifCreateView(APIView):
     def post(self, request):
